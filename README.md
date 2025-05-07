@@ -1,8 +1,12 @@
 <h1 align="center">Hey, bienvenido 👋</h1>
 
-<p align="center">Soy secnov, un chaval medio loco xD, me mola cacharrear y subir cosas aquí de vez en cuando 😎</p>
+<p align="center">Soy un chaval tranquilo, me mola cacharrear y subir cosas aquí de vez en cuando 😎</p>
 
-<p align="center">Aquí verás un poco de todo: ideas random, proyectos raros y alguna que otra sorpresa 🐱‍👤</p>
+<p align="center">Aquí verás un poco de todo: ideas random, proyectos raros y alguna que otra sorpresa 🪄</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="what xd" width="300" />
+</p>
 
 ---
 
