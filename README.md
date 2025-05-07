@@ -5,7 +5,7 @@
 <p align="center">Aquí verás un poco de todo: ideas random, proyectos raros y alguna que otra sorpresa 🪄</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="what xd" width="300" />
+  <img src="animation.gif" alt="animacion xd" width="300" />
 </p>
 
 ---
