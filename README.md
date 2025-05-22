@@ -1,6 +1,6 @@
-<center><h1>Hi ✌</h1></center>
+# Hi Friend
 
-> Que tal soy secnov un amante de la ciberseguridad y el pentesting, un placer!
+> I'm secnov, a curious shack
 
 
 ```bash
