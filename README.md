@@ -1,15 +1,19 @@
-<h1 align="center">Hey, bienvenido 👋</h1>
+#  Hi ✌
 
-<p align="center">Soy un chaval tranquilo, me mola cacharrear y subir cosas aquí de vez en cuando 😎</p>
+> Que tal soy secnov un amante de la ciberseguridad y el pentesting, un placer!
 
-<p align="center">Aquí verás un poco de todo: ideas random, proyectos raros y alguna que otra sorpresa 🪄</p>
 
-<p align="center">
-  <img src="giphy.gif" alt="animacion xd" width="300" />
-</p>
-
----
-
-<p align="center">Gracias por pasarte. Siéntete libre de curiosear 👀</p>
-
-<p align="center">✨ Take it easy ✨</p>
+```bash
+               .-'''''-.
+             .'         `.
+            :             :
+           :               :
+           :      _/|      :
+            :   =/_/      :
+             `._/ |     .'
+          (   /  ,|...-'
+           \_/^\/||__
+        _/~  `""~`"` \_
+     __/  -'/  `-._ `\_\__
+   /scn  /-'`  `\   \  \-.\
+```
